@@ -13,6 +13,7 @@ CSS練習
 - float
 - RWD
 - flex
+- Font Awesome
 
 
 ### Demo
