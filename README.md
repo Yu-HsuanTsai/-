@@ -1,4 +1,4 @@
-# Japan-travel-Web
+# Japan-travel-web
 CSS練習
 
 ### Demo
